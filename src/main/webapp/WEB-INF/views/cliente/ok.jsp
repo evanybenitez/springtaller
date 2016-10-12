@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-LA EMPRESA WIRE UBICADA en esta direcion
+
 </body>
 </html>
